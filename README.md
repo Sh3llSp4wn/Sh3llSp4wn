@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sh3llSp4wn
-- 👀 I’m interested in Cryptography, Exploitation, and Mathmatics
-- 🌱 I’m currently learning Heap Based Use-After-Free attacks, ROP, JOP, cache timing attacks, and Abstract Algebra
+- 👀 I’m interested in Cryptography, Exploitation, and Mathematics
+- 🌱 I’m currently learning computer hardware internals (TEEs, processor and memory internals, UEFI, and SMM)
 - 💞️ I’m looking to collaborate on low level security research, cryptoanalytic techniques, and software optimization
 - 📫 How to reach me: shellspawn@protonmail.com
 
